@@ -1,0 +1,24 @@
+body{
+	background-color: #FFFEF2;
+	margin: 25px;
+}
+
+h1{
+	color: #F5703C;
+	font-family: times new roman;
+	text-align: center;
+	font-size: 40px;
+}
+
+p{
+	color: #808080;
+	font-family: tahoma;
+	font-size: 15px;
+	text-align: center;
+}
+
+li{
+	color: #808080;
+	font-family: tahoma;
+	font-size: 15px;
+}
